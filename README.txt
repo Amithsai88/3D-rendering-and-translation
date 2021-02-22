@@ -21,4 +21,4 @@ webpage.
 • shader.js is used to create the program and link the
 program with vertexshader and fragmentshader.
 Video:
-In video text of images.
+In video.text of images.
